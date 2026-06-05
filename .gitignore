@@ -1,0 +1,17 @@
+# Windows 系统文件
+desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时/备份文件
+*.tmp
+*.bak
+*~
